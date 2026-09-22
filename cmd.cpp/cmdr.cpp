@@ -39,6 +39,7 @@ int main() {
             cout << "    V2";
             cout << "   BETA   \n";
         }
+
       }
 
       else if (choice == 2) {
@@ -47,6 +48,8 @@ int main() {
         cout << "This doesn't do anything bad\n";
         cout << "Thats it!\n";
       }
+
+      cin >> choice;
 
 
     system("pause");
